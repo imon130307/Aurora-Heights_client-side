@@ -1,0 +1,102 @@
+[
+  {
+    "mealId": "642c155b2c4774f05c36eeb1",
+    "title": "Classic Pancakes",
+    "category": "Breakfast",
+    "likes": 124,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Fluffy and delicious, just perfect!",
+    "reviews_count": 20,
+    "customer_email": "happyfoodie1@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb2",
+    "title": "Avocado Toast",
+    "category": "Breakfast",
+    "likes": 200,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Fresh and flavorful, highly recommend!",
+    "reviews_count": 35,
+    "customer_email": "healthyeats@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb3",
+    "title": "Egg Benedict",
+    "category": "Breakfast",
+    "likes": 89,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "The sauce was perfection!",
+    "reviews_count": 12,
+    "customer_email": "egglovers@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb4",
+    "title": "Caesar Salad",
+    "category": "Lunch",
+    "likes": 150,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Crisp and fresh with a tasty dressing.",
+    "reviews_count": 28,
+    "customer_email": "greensfan@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb5",
+    "title": "Grilled Chicken Sandwich",
+    "category": "Lunch",
+    "likes": 98,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Perfectly grilled and juicy!",
+    "reviews_count": 15,
+    "customer_email": "lunchtimehero@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb6",
+    "title": "Vegetable Stir-fry",
+    "category": "Lunch",
+    "likes": 76,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Colorful and packed with flavor!",
+    "reviews_count": 10,
+    "customer_email": "veggielover@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb7",
+    "title": "Margherita Pizza",
+    "category": "Dinner",
+    "likes": 230,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Classic taste, simply amazing.",
+    "reviews_count": 40,
+    "customer_email": "pizzaenthusiast@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb8",
+    "title": "Grilled Salmon",
+    "category": "Dinner",
+    "likes": 180,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Perfectly cooked and seasoned.",
+    "reviews_count": 22,
+    "customer_email": "seafoodfan@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeb9",
+    "title": "Beef Tacos",
+    "category": "Dinner",
+    "likes": 145,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Spicy and flavorful, a real treat!",
+    "reviews_count": 18,
+    "customer_email": "spicytaco@example.com"
+  },
+  {
+    "mealId": "642c155b2c4774f05c36eeba",
+    "title": "Spaghetti Carbonara",
+    "category": "Dinner",
+    "likes": 165,
+    "seller_email": "imon.dvp@gmail.com",
+    "customer_reviews": "Creamy and full of flavor, loved it!",
+    "reviews_count": 25,
+    "customer_email": "pastafan@example.com"
+  }
+]
